@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/number-repr/static/css/main.073c9b0a.css",
+    "main.js": "/number-repr/static/js/main.47ac362d.js",
+    "index.html": "/number-repr/index.html",
+    "main.073c9b0a.css.map": "/number-repr/static/css/main.073c9b0a.css.map",
+    "main.47ac362d.js.map": "/number-repr/static/js/main.47ac362d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.47ac362d.js"
+  ]
+}
